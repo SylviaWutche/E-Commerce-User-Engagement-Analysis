@@ -7,7 +7,7 @@ They want to figure out how to enhance user engagement.
 Data was gathered from 2012 to 2015, totaling over one million rows
 
 💡 Key findings:
-✦ Users come back an average of 1.13 times.
+✦ Users come back an average of 0.20 times.
 ✦ Desktop users, especially from general search, drive more return visits.
 
 🔍 Marketing Impact:
@@ -25,5 +25,4 @@ Data was gathered from 2012 to 2015, totaling over one million rows
 🚀 Recommendation:
 ✦ Focus on successful campaigns.
 ✦ Tailor strategies for popular referral sources.
-✦ Run promotions during peak hours.
 ✦ Customize content based on seasonal trends.
